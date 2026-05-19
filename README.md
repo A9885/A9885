@@ -1,16 +1,53 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anjan Kumar</h1>
+<h3 align="center">Full Stack Developer | Flutter Developer | Java Developer</h3>
 
-<!--
-**A9885/A9885** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=A9885&label=Profile%20views&color=0e75b6&style=flat" alt="A9885" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🔭 Currently working on Flutter & Full Stack Projects
+- 🌱 Learning React.js and Cloud Technologies
+- 💬 Ask me about Flutter, Java, Firebase, APIs
+- 📫 Reach me: your-email@gmail.com
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://github.com/A9885"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,flutter,firebase,react,js,html,css,mysql,git,github,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=A9885&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=A9885&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Top Projects
+
+- 🚖 RAPTOR Ride Sharing App
+- 🐾 Tailmate Pet Shop App
+- 🎓 Student Management System
+- 🌐 LMS Portal
